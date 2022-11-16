@@ -1,5 +1,5 @@
 # pitwiki_CS
- CSpitwiki
+ pitwiki_CS
  Translated by Dylan
  Resources: 
  https://crowdin.com/project/hypixel/zh-CN
