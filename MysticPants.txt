@@ -1,0 +1,67 @@
+神秘之裤
+来自Hypixel Pit Wiki(https://pit.wiki/)
+这一页仅包括普通的神秘之裤。下面是一些特殊神秘之裤的链接。       Every type of mystic pants in a player's inventory.(这里是所有种类的无裤子。)
+天蓝色裤子，用于钓鱼；
+暗黑之裤，用于让别的种类的神秘之裤失效；
+下水道之裤，有可能转换为非常厉害的神秘之裤；
+狂暴之裤，用于对抗一些强大的神秘物品。
+
+神秘之裤可以穿戴和附魔。玩家可去附魔的无附魔裤子、拍卖、交易中获得神秘之裤。
+
+无附魔裤子是未附魔的神秘之裤。无附魔裤子有（红，橙，黄，绿，蓝）。在精通I解锁神秘学后，有较低几率在击杀别的玩家时掉率无附魔裤子。其他类型的神秘之裤获取方式，在别的页面有相应描述。
+
+无附魔裤子虽然未附魔，但却和铁护腿有一样护甲值。他们可以在神秘之井中被第九层神秘主义附魔。无附魔裤子附魔到I级需要1000金币，附魔到II级需要4000金币，附魔到III级需要8000金币和一条一样颜色的裤子。
+
+附魔无附魔裤子会给予它们随机的神秘生命，并且去除死亡不消失的标签(Kept on Death)。死亡时将会失去一神秘生命。如果玩家在战斗时退出游戏，神秘物品将会失去三神秘生命。当神秘物品失去了所有神秘生命，该物品会消失。
+
+当附魔的时候.普通无附魔的裤子将会获随机的附魔，并且具有不同的效果。I阶的神秘之裤会获得Upon upgrading to tier I, they gain 1–2 "tokens" – total tiers – of a low-grade enchantment. When upgrading to tier II, they gain 1–2 more tokens of any enchantment (at most one of which can be RARE!), and at tier III, they gain 1–4 more tokens (at most three of which can be RARE!) – up to 8 total.
+
+Mystic pants may not have more than 3 unique enchants or more than 8 tokens of enchantment, even through usage of the Totally Legit Gem.
+
+The list of enchantments that can be obtained at tier I or higher is as follows:
+
+赏金之御
+I   每拥有1,000g赏金时，减伤2%（封顶5,000g；减伤10%）。
+II  每拥有1,000g赏金时，减伤3%（封顶5,000g；减伤15%）。
+III 每拥有1,000g赏金时，减伤4%（封顶5,000g；减伤20%）。
+
+板球
+I   当你或你的对手站在草方块上时，减伤5%，并且附带永久生命恢复 I
+II  当你或你的对手站在草方块上时，减伤7%，并且附带永久生命恢复 I
+III 当你或你的对手站在草方块上时，减伤15%，并且附带永久生命恢复 I
+
+赏金克制者
+I   持有赏金的玩家对你造成的伤害减少15%。
+II  持有赏金的玩家对你造成的伤害减少25%。
+III 持有赏金的玩家对你造成的伤害减少40%。
+
+钻石克星
+I   使用钻石武器的玩家对你造成的伤害减小10%。
+II  使用钻石武器的玩家对你造成的伤害减小20%。
+III 使用钻石武器的玩家对你造成的伤害减小30%。
+
+游泳能手
+I   当你身在水或熔岩中，减伤25%，并且不会淹死。
+II  当你身在水或熔岩中，减伤40%，并且不会淹死。
+III 当你身在水或熔岩中，减伤60%，并且不会淹死。
+
+伪·角斗士
+I   在10格以内每有1名玩家，受到-1%伤害（最多10名玩家）。
+II  在10格以内每有1名玩家，受到-1.5%伤害（最多10名玩家）。
+III 在10格以内每有1名玩家，受到-2%伤害（最多10名玩家）。
+
+保护
+I   减伤4%。
+II  减伤6%。
+III 减伤10%。
+
+箭矢削弱
+I   箭对你造成的伤害减少20%。
+II  箭对你造成的伤害减少40%。
+III 箭对你造成的伤害减少60%。
+
+竭力之获
+I   增加20%的连杀经验加成。
+II  增加20%的连杀经验加成，并且击杀最多+50XP。
+III 增加20%的连杀经验加成。并且击杀最多+100XP。
+
