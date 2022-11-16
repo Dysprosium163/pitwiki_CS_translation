@@ -7,7 +7,8 @@
   <<<<我是分界线>>>>
 
  Resources: 
- https://crowdin.com/project/hypixel/zh-CN   https://pit.wiki/
+ https://crowdin.com/project/hypixel/zh-CN   
+ https://pit.wiki/
 
 <<<<我是分界线>>>>
 
