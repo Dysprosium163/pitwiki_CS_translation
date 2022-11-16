@@ -20,7 +20,7 @@ Mystic pants may not have more than 3 unique enchants or more than 8 tokens of e
 
 The list of enchantments that can be obtained at tier I or higher is as follows:
 
-赏金之御
+赏金之御(
 I   每拥有1,000g赏金时，减伤2%（封顶5,000g；减伤10%）。
 II  每拥有1,000g赏金时，减伤3%（封顶5,000g；减伤15%）。
 III 每拥有1,000g赏金时，减伤4%（封顶5,000g；减伤20%）。
