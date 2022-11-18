@@ -13,7 +13,7 @@
 <<<<我是分界线>>>>
 
  Any question or issue? 
- Create a issue on the GitHub
+ Create an issue on the GitHub
 
 <<<<我是分界线>>>>
 
