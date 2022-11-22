@@ -2,13 +2,13 @@
 
 <<<<我是分界线>>>>
 
- Translated by Dylan
+ Translated by Dylan     
 
   <<<<我是分界线>>>>
 
  Resources:                                   
- https://crowdin.com/project/hypixel/zh-CN   
- https://pit.wiki/
+ [Crowdin的Hypixel中文翻译](https://crowdin.com/project/hypixel/zh-CN)     
+ [pit.wiki](https://pit.wiki/)     
 
 <<<<我是分界线>>>>
 
