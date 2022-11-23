@@ -13,10 +13,10 @@
 <<<<我是分界线>>>>
 
  Any questions or issues?     
- Create an issue on GitHub.     
- If you don't have an account on GitHub? Or not easy to access GitHub?     
- You can go to [我的哔哩哔哩空间](https://space.bilibili.com/693470532) and DM me.（啥都不方便就去b站私信我！）     
- Otherwise, you can also DM me in through Discord.(Dysprosium163#2143)     
+ >Create an issue on GitHub.     
+ >If you don't have an account on GitHub? Or not easy to access GitHub?     
+ >You can go to [我的哔哩哔哩空间](https://space.bilibili.com/693470532) and DM me.（啥都不方便就去b站私信我！）     
+ >Otherwise, you can also DM me in through Discord.(Dysprosium163#2143)     
 
 <<<<我是分界线>>>>
 
