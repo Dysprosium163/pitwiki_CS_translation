@@ -5,7 +5,7 @@
  Translated by Dylan     
 
 <<<<我是分界线>>>>
-
++
  Resources:                                   
  [Crowdin的Hypixel中文翻译](https://crowdin.com/project/hypixel/zh-CN)     
  [pit.wiki](https://pit.wiki/)     
@@ -19,5 +19,4 @@
  Otherwise, you can also DM me in through Discord.(Dysprosium163#2143)     
 
 <<<<我是分界线>>>>
-
- Whatever, love u D:
+    Whatever, love u D:
