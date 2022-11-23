@@ -13,8 +13,8 @@
 <<<<我是分界线>>>>
 
  Any question or issue?     
- Create an issue on the GitHub.     
- If you don't have an account on the GitHub? Or not easy to access the GitHub?     
+ Create an issue on GitHub.     
+ If you don't have an account on GitHub? Or not easy to access GitHub?     
  You can go to [我的哔哩哔哩空间](https://space.bilibili.com/693470532) and DM me.     
  Otherwise, you can also DM me in through Discord.(Dysprosium163#2143)     
 
