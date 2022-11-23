@@ -5,7 +5,7 @@
  Translated by Dylan     
 
 <<<<我是分界线>>>>
-+
+
  Resources:                                   
  [Crowdin的Hypixel中文翻译](https://crowdin.com/project/hypixel/zh-CN)     
  [pit.wiki](https://pit.wiki/)     
