@@ -12,11 +12,13 @@
 
 <<<<我是分界线>>>>
 
- Any question or issue?     
+ Any questions or issues?     
  Create an issue on GitHub.     
  If you don't have an account on GitHub? Or not easy to access GitHub?     
  You can go to [我的哔哩哔哩空间](https://space.bilibili.com/693470532) and DM me.     
  Otherwise, you can also DM me in through Discord.(Dysprosium163#2143)     
 
 <<<<我是分界线>>>>
-    Whatever, love u D:
+
+Please feedback any questions!:heart:
+有:heart:问:heart:题:heart:或:heart:者:heart:错:heart:误:heart:请:heart:反:heart:馈！
