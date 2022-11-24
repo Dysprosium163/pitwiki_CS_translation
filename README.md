@@ -17,8 +17,9 @@
 
  ## Any questions or issues?     
  >Create an issue on GitHub.     
- >If you don't have an account on GitHub? Or not easy to access GitHub?
+ >If you don't have an account on GitHub? Or not easy to access GitHub?  
  >You can DM me in through Discord.
+ > This is my Discord :arrow_down::arrow_down::arrow_down:
  
     Dysprosium163#2143
 
