@@ -27,4 +27,4 @@
 ---
 
 **Please feedback any problems!:heart:**  
-Translated with love and tears by Dylan with help from lots of friends:heavy_exclamation_mark:
+Translated with love and tears by **Dylan** with help from lots of **friends**:heavy_exclamation_mark:
