@@ -6,9 +6,6 @@
 
 ---
 
- Translated by Dy_La_N(Minecraft in game name)  
----
-
  ### Resources:                                   
  [Hypixel C.S. translation from Crowdin](https://crowdin.com/project/hypixel/zh-CN)     
  [pit.wiki](https://pit.wiki/)
@@ -30,3 +27,4 @@
 ---
 
 **Please feedback any problems!:heart:**
+Translated with love and tears by Dylan with help from lots of friends:heavy_exclamation_mark:
