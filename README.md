@@ -14,6 +14,8 @@
  [pit.wiki](https://pit.wiki/)     
 
 ---
+## Here is the [translation](https://github.com/Dysprosium163/pitwiki_CS_translation/tree/main/CS_Translation):arrow_backward::arrow_backward::arrow_backward:
+---
 
  ## Any questions or issues?     
  >Create an issue on GitHub.     
