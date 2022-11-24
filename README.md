@@ -6,20 +6,20 @@
 
 ---
 
- Translated by Dylan  
+ ### Translated by Dylan  
 ---
 
- ## Resources:                                   
+ ### Resources:                                   
  [Hypixel C.S. translation from Crowdin](https://crowdin.com/project/hypixel/zh-CN)     
  [pit.wiki](https://pit.wiki/)
 
 ---
 
-## Here is the [translation](https://github.com/Dysprosium163/pitwiki_CS_translation/tree/main/CS_Translation):arrow_backward::arrow_backward::arrow_backward:  
+### Here is the [translation](https://github.com/Dysprosium163/pitwiki_CS_translation/tree/main/CS_Translation):arrow_backward::arrow_backward::arrow_backward:  
 
 ---
 
- ## Any questions or issues?     
+ ### Any questions or issues?     
  >Create an issue on GitHub.     
  >If you don't have an account on GitHub? Or not easy access to GitHub?  
  >You can DM me through Discord.
