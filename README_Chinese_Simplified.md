@@ -1,5 +1,4 @@
-
-
+# [pit.wiki](https://pit.wiki/)简体中文翻译
 
 >You can go to [我的哔哩哔哩空间](https://space.bilibili.com/693470532) and DM me.（啥都不方便就去b站私信我！）
 

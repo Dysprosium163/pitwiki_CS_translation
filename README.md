@@ -1,4 +1,4 @@
-# pit.wiki Chinese Simplified translation
+# [pit.wiki](https://pit.wiki/) Chinese Simplified translation
 
 ---
 
@@ -17,7 +17,7 @@
 
  ## Any questions or issues?     
  >Create an issue on GitHub.     
- >If you don't have an account on GitHub? Or not easy to access GitHub?  
+ >If you don't have an account on GitHub? Or not easy access to GitHub?  
  >You can DM me in through Discord.
  > This is my Discord :arrow_down::arrow_down::arrow_down:
  
@@ -25,4 +25,4 @@
 
 ---
 
-###  **Please feedback any problems!:heart:**
+**Please feedback any problems!:heart:**
