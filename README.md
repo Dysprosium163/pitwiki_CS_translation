@@ -6,7 +6,7 @@ English/[简体中文](https://github.com/Dysprosium163/pitwiki_CS_translation/b
 
 ---
  Resources:                                   
- [Crowdin的Hypixel中文翻译](https://crowdin.com/project/hypixel/zh-CN)     
+ [Hypixel C.S. translation from Crowdin](https://crowdin.com/project/hypixel/zh-CN)     
  [pit.wiki](https://pit.wiki/)     
 
 ---
@@ -19,5 +19,4 @@ English/[简体中文](https://github.com/Dysprosium163/pitwiki_CS_translation/b
 
 ---
 
- Please feedback any problems!:heart:     
- 有:heart:问:heart:题:heart:或:heart:者:heart:错:heart:误:heart:请:heart:反:heart:馈！
+ Please feedback any problems!:heart:
