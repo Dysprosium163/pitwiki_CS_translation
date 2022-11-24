@@ -6,7 +6,7 @@
 
 ---
 
- ### Translated by Dylan  
+ ### Translated by Dy_La_N(Minecraft in game name)  
 ---
 
  ### Resources:                                   
