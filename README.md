@@ -7,7 +7,7 @@
 ---
 
  ### Resources:                                   
- [Hypixel C.S. translation from Crowdin](https://crowdin.com/project/hypixel/zh-CN)     
+ [Hypixel Chinese Simplified translation from Crowdin](https://crowdin.com/project/hypixel/zh-CN)     
  [pit.wiki](https://pit.wiki/)
 
 ---
