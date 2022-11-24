@@ -6,7 +6,7 @@
 
 ---
 
- Translated by Dylan
+ Translated by Dylan  
 ---
 
  ## Resources:                                   
@@ -15,7 +15,7 @@
 
 ---
 
-## Here is the [translation](https://github.com/Dysprosium163/pitwiki_CS_translation/tree/main/CS_Translation):arrow_backward::arrow_backward::arrow_backward:
+## Here is the [translation](https://github.com/Dysprosium163/pitwiki_CS_translation/tree/main/CS_Translation):arrow_backward::arrow_backward::arrow_backward:  
 
 ---
 
