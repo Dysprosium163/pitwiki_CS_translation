@@ -1,4 +1,4 @@
-English/简体中文
+English/[简体中文](https://github.com/Dysprosium163/pitwiki_CS_translation/blob/main/README_Chinese_Simplified.md)
 
 ---
 
