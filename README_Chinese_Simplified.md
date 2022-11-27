@@ -7,7 +7,7 @@
 ---
 
 ### 参考的资源：
- [来自Crowdin的Hypixel简体中文翻译](https://crowdin.com/project/hypixel/zh-CN)  
+ [Crowdin的Hypixel简体中文翻译](https://crowdin.com/project/hypixel/zh-CN)  
  [pit.wiki](https://pit.wiki/)
 
 ---
