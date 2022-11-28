@@ -2,7 +2,7 @@
 
 ---
 
- English/[简体中文](https://github.com/Dysprosium163/pitwiki_CS_translation/blob/main/README_Chinese_Simplified.md)
+ English/[简体中文](https://github.com/Dysprosium163/pitwiki_CS_translation/blob/main/README_Chinese_Simplified.md#pitwiki%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
 
 ---
 
