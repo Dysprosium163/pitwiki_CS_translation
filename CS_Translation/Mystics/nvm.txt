@@ -34,4 +34,4 @@ II: Spawn with 8 snowballs. Set to 16 snowballs on kill. Snowballs apply Slownes
 III: Spawn with 16 snowballs. Refill on kill. Snowballs apply Slowness I (0:05). Snowball hits within 5 seconds of each other "combo," playing a higher-pitched music note on hit until it reaches a 3-hit combo, dealing 0.5♥︎ true damage and resetting the combo.
 
 稀有！雪人军团(RARE! Snowman Army)
-I
+I   重生获得3个雪块。
