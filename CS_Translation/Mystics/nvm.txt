@@ -6,4 +6,32 @@ III 击杀玩家生成一只2尺寸大小的史莱姆，它会攻击附近的玩
 稀有！微观反重力(RARE! Retro-Gravity Microcosm)
 I   若攻击者在半空中打你三下：
     恢复1.25颗♥。
-    
+    当攻击者处于空中击中你且攻击间隔大于1秒，微观反重力才可生效。
+II  若攻击者在半空中打你三下：
+    恢复1.25颗♥。
+    并且在接下来30秒内，增加1.5颗♥的伤害。（可叠加）
+    当攻击者处于空中击中你且攻击间隔大于1秒，微观反重力才可生效。
+III 若攻击者在半空中打你三下：
+    恢复1.25颗♥。
+    并且在接下来30秒内，增加1.5颗♥的伤害。（可叠加）
+    附加0.5颗♥的真实伤害。
+    当攻击者处于空中击中你且攻击间隔大于1秒，微观反重力才可生效。
+
+稀有！奇点(RARE! Singularity)
+I   每次最多受到2.5颗♥的伤害。
+II  每次最多受到2颗♥的伤害。
+III 每次最多受到1.5颗♥的伤害。
+
+稀有！独处(RARE! Solitude)
+I   若在7格内只有1名或没有的玩家，减伤40%。
+II  若在7格内只有1名或没有的玩家，减伤50%。
+III 若在7格内只有1名或没有的玩家，减伤60%。
+
+稀有！雪球(RARE! Snowballs)
+I   重生获得8个雪球，击杀加8个，最多可拥有16个。扔出的雪球会给敌人缓慢 I （3秒）。
+	I: Spawn with 8 snowballs. Gain 8 snowballs on kill, max of 16 held. Snowballs apply Slowness I (0:03). Snowball hits within 5 seconds of each other "combo," playing a higher-pitched music note on hit until it reaches a 5-hit combo, dealing 0.5♥︎ true damage and resetting the combo.
+II: Spawn with 8 snowballs. Set to 16 snowballs on kill. Snowballs apply Slowness I (0:04). Snowball hits within 5 seconds of each other "combo," playing a higher-pitched music note on hit until it reaches a 4-hit combo, dealing 0.5♥︎ true damage and resetting the combo.
+III: Spawn with 16 snowballs. Refill on kill. Snowballs apply Slowness I (0:05). Snowball hits within 5 seconds of each other "combo," playing a higher-pitched music note on hit until it reaches a 3-hit combo, dealing 0.5♥︎ true damage and resetting the combo.
+
+稀有！雪人军团(RARE! Snowman Army)
+I
