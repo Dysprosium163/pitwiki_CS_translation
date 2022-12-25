@@ -1,4 +1,4 @@
-# [pit.wiki](https://pit.wiki/)简体中文翻译
+# [pit.wiki](https://pit.wiki/) 简体中文翻译
 
 ---
 
@@ -7,7 +7,7 @@
 ---
 
 ### 参考的资源：
- [Crowdin的Hypixel简体中文翻译](https://crowdin.com/project/hypixel/zh-CN)  
+ [Crowdin 的 Hypixel 简体中文翻译](https://crowdin.com/project/hypixel/zh-CN)  
  [pit.wiki](https://pit.wiki/)
 
 ---
@@ -17,10 +17,10 @@
 ---
 
 ### 如果有问题或者翻译错误？
->请在GitHub上创建一个issue。  
-> 如果你没有GitHub账号？或者不方便访问GitHub？  
-> 你可以通过Discord私信我。或者也可以去b站私信我[点这里](https://space.bilibili.com/693470532)。  
-> 这是我的Discord :arrow_down::arrow_down::arrow_down:  
+>请在 GitHub 上创建一个 issue。  
+> 如果你没有 GitHub 账号，或者不方便访问 GitHub？  
+> 你可以通过 Discord 私信我。或者也可以去b站私信我[点这里](https://space.bilibili.com/693470532)。  
+> 这是我的 Discord :arrow_down::arrow_down::arrow_down:  
 
     Dysprosium163#2143
 
