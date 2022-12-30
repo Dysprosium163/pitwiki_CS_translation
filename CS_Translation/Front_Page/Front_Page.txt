@@ -1,0 +1,104 @@
+这里是非官方的 The Hypixel Pit Wiki
+
+欢迎！欢迎到访
+
+The Pit 是 Hypixel Network 上的一个基于 PVP，可以使用独特的增益效果，连杀效果，装备和附魔来战斗的长期游戏。
+
+加入 mc.hypixel.net 并于 "playercount"  玩家战斗吧！
+
+当前地图："currentmap"
+"nextmap" 在 "whenmap" 后
+
+"dayornight" 还剩 "whenday"
+
+下个事件："nextevent" 在 "whenevent" （"localtime"）
+
+距离上次 Pit 更新"lastpitupd"  "lastupdtime"
+
+综合
+Hypixel 天坑乱斗
+金币
+经验
+声望
+精通
+任务
+契约任务
+成就
+统计信息
+赏金
+NPC
+Pit Supporter
+钓鱼
+指令
+库存
+
+战斗
+连杀效果
+增益效果
+被动效果
+Overdrive
+Beastmode
+Hermit
+Highlander
+Magnum Opus
+To the Moon
+Uberstreak
+
+神秘物品
+神秘井
+神秘之剑
+神秘之弓
+神秘之裤
+狂暴之裤
+暗黑之裤
+天蓝色裤子
+下水道裤子
+真技之石
+金头盔
+天使之甲
+末日靴子
+哲学家的仙人掌
+神秘修理包
+
+小型乱斗事件
+打击龙蛋事件
+山丘之王
+高梯之王
+双倍奖励
+空投
+拍卖
+速算
+蛋糕大胃王
+所有人都获得了赏金
+
+大型乱斗事件
+披萨快递摊事件
+幸运奖券事件
+结队争锋事件
+方块划地战事件
+尖塔夺魁事件
+劫掠之战事件
+团队死斗事件
+狂热天坑事件
+野兽追袭事件
+
+地图
+Castle
+Corals
+Elements
+Four Seasons
+Genesis
+国王任务
+下水道
+阵营基地
+
+物品
+物品商店
+迷你蛋糕
+黑暗结晶
+恶臭羽毛
+Mark of Recon Essence
+
+找不到你想看的？使用搜索栏，或者列表页面，亦或者随即页面。
+提示！维基当前在测试版本中！
+如果你发现了内容错误，请在 Discord 上私信 adjective_noun#3215 或者 Brooke#0843。我们很乐意去查看你的反馈（还会在 credit 页面提及你）。
