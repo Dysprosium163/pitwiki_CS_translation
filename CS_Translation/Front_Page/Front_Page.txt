@@ -1,10 +1,10 @@
 这里是非官方的 The Hypixel Pit Wiki
 
-欢迎！欢迎到访
+欢迎来访 Pit Wiki！
 
 The Pit 是 Hypixel Network 上的一个基于 PVP，可以使用独特的增益效果，连杀效果，装备和附魔来战斗的长期游戏。
 
-加入 mc.hypixel.net 并与 "playercount"  玩家战斗吧！
+加入 mc.hypixel.net 并与 "playercount"  名玩家战斗吧！
 
 当前地图："currentmap"
 "nextmap" 在 "whenmap" 后

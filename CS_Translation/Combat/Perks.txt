@@ -1,0 +1,89 @@
+增益效果
+来自 Hypixel Pit Wiki
+
+增益效果为一种升级项目，为玩家在战斗中带来一定的加成。
+
+在 10 级的时候，玩家可以在增益效果 NPC （Upgrades NPC）处购买增益效果。额外的增益增益效果槽位将在 35 和 70 级时解锁。精通 III 可在声望商店解锁额外增益栏，第 4 个增益槽位将在 100 级时解锁。
+
+捷径可以绕过增益效果和增益槽位等级的限制。
+
+下面的增益效果不需要精通即可购买：
+
+Name = 名称
+Cost = 花费
+Reqs. = 等级要求
+Description = 简介
+
+Name: 金头
+Cost: 500 金币
+Reqs.: 10 级
+Description:
+获得的金苹果变为金头。金头可以秒吃并且会获得以下效果：
+速度 I（8 秒）
+生命恢复 II（5 秒）
+3 颗♥伤害吸收
+若玩家在声望商店解锁了非常好吃！（Very Yummy）声望增益，则会获得以下这些效果：
+速度 I（8 秒）
+生命恢复 II（7 秒）
+3.5 颗♥伤害吸收
+
+Name: 钓鱼竿
+Cost: 1,000 金币
+Reqs: 10 级
+Description:
+出生获得钓鱼竿。
+
+Name: 熔岩桶
+Cost: 1,000 金币
+Reqs: 10 级
+Description:
+出生获得熔岩桶。岩浆造成的伤害会计入击杀或者助攻。在坑中心区域无法放置岩浆。
+
+Name: 连锁力量
+Cost: 1,000 金币
+Reqs.: 20 级
+Description:
+击杀增加 8% 伤害，持续 7 秒。若在 7 秒内再次击杀，则会重置持续时间，并且额外增加 8% 伤害。此效果最高可叠加 5 层（40% 伤害加成）。
+
+Name: 安全第一
+Cost: 3,000 金币
+Reqs.: 20 级
+Description:
+出生获得一个锁链头盔（增加 2 点护甲值）。
+
+Name: 矿工
+Cost: 3,000 金币
+Reqs.: 30 级
+Description:
+出生获得 24 块圆石和一把钻石镐（效率 IV）。击杀玩家增加 3 块圆石。
+
+Name: Bonk!
+Cost: 2,000 金币
+Reqs.: 35 级
+Description:
+免疫每个玩家每生所对你的第一次攻击，于此同时获得抗性 I（2 秒）。
+
+Name: 涓涓细流
+Cost: 1,000 金币
+Reqs.: 40 级
+Description:
+拾取金锭恢复 2 颗♥，并且多获得 10 金币。同时与拾金着（Pebble）生效，但不会受到金币加成的影响。
+
+Name: 幸运钻石
+Cost: 4,000 金币
+Reqs.: 40 级
+Description:
+30% 几率将击杀掉落的铁护甲升级为钻石护甲。掉落的钻石护甲将自动进入玩家的物品栏。幸运钻石不会获得钻石头盔。
+
+Name: 弓箭手
+Cost: 4,000 金币
+Reqs.: 40 级
+Description:
+射中玩家获得 3 根箭。此外，弓箭手箭矢命中的目标的基础金币提高三倍，并在所有助攻中多加 2 金币。
+
+Name:
+Cost:
+Reqs.:
+Description:
+
+Bounty Hunter	2,000g	[50]	Earn +4g on kills. Assists on bountied players grant a percentage share the bounty. Deal +1% damage for every 100 gold of the victim's bounty. Users will be provided with a pair of golden leggings; this perk does not have any effect if the user is not wearing them.
