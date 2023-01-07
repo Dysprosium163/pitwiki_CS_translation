@@ -12,7 +12,7 @@
 
 ---
 
-### 翻译点[这里](pitwiki-markdown):arrow_backward::arrow_backward::arrow_backward:  
+### 翻译点[这里](pitwiki_markdown):arrow_backward::arrow_backward::arrow_backward:  
 
 ---
 
