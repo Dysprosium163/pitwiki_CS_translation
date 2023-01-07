@@ -12,7 +12,7 @@
 
 ---
 
-### 翻译点[这里](https://github.com/Dysprosium163/pitwiki_CS_translation/tree/main/CS_Translation):arrow_backward::arrow_backward::arrow_backward:  
+### 翻译点[这里](pitwiki-markdown):arrow_backward::arrow_backward::arrow_backward:  
 
 ---
 

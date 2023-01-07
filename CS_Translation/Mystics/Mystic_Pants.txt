@@ -1,8 +1,8 @@
 神秘之裤
 来自 Hypixel Pit Wiki
-这一页仅包括普通的神秘之裤。下面是一些特殊神秘之裤的链接。       Every type of mystic pants in a player's inventory.（这里是所有种类的无裤子。）
+这一页仅包括普通的神秘之裤。下面是一些特殊神秘之裤的链接。       Every type of mystic pants in a player's inventory.（这名玩家的物品栏展示了所有种类的神秘之裤。）
 天蓝色裤子，用于钓鱼；
-暗黑之裤，用于让别的种类的神秘之裤失效；
+暗黑之裤，用于让别的神秘之裤失效；
 下水道之裤，有可能转换为非常厉害的神秘之裤；
 狂暴之裤，用于对抗一些强大的神秘物品。
 
