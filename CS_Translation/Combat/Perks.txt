@@ -79,11 +79,17 @@ Name: 弓箭手
 Cost: 4,000 金币
 Reqs.: 40 级
 Description:
-射中玩家获得 3 根箭。此外，弓箭手箭矢命中的目标的基础金币提高三倍，并在所有助攻中多加 2 金币。
+射中玩家获得 3 根箭。此外，若成功射杀目标可获得三倍金币，并在所有助攻中多加 2 金币。
 
-Name:
-Cost:
-Reqs.:
+Name: 赏金猎人
+Cost: 2,000 金币
+Reqs.: 50 级
 Description:
+击杀多加 4 金币。若你助攻击杀的玩家带有赏金你也可以依照比例获得赏金金币奖励。目标每拥有 100g 赏金，对其造成的伤害加 1%。使用这个增益效果必须穿戴金护腿，否则不会生效。
 
-Bounty Hunter	2,000g	[50]	Earn +4g on kills. Assists on bountied players grant a percentage share the bounty. Deal +1% damage for every 100 gold of the victim's bounty. Users will be provided with a pair of golden leggings; this perk does not have any effect if the user is not wearing them.
+Name: 连杀
+Cost: 8,000 金币
+Reqs.: 50 级
+Description: 此增益效果将给予 3 倍连杀经验。
+
+

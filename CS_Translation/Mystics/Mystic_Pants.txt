@@ -10,11 +10,11 @@
 
 无附魔裤子是未附魔的神秘之裤。无附魔裤子有（红，橙，黄，绿，蓝）。在精通I解锁神秘学后，有较低几率在击杀别的玩家时掉率无附魔裤子。其他类型的神秘之裤获取方式，在别的页面有相应描述。
 
-无附魔裤子虽然未附魔，但却和铁护腿有一样护甲值。他们可以在神秘之井中被第九层神秘主义附魔。无附魔裤子附魔到 I 级需要 1000 金币，附魔到 II 级需要 4000 金币，附魔到 III 级需要 8000 金币和一条一样颜色的裤子。
+无附魔裤子和铁护腿有一样护甲值。 They can be enchanted in the Mystic Well with tier IX of Mysticism。无附魔裤子附魔到 I 级花费 1000 金币，附魔到 II 级花费 4000 金币，附魔到 III 级花费 8000 金币和一条一样颜色的神秘之裤。（fresh暗黑之裤也一样？）
 
 附魔无附魔裤子会给予它们随机的神秘生命，并且去除死亡不消失的标签（Kept on Death）。死亡时将会失去一神秘生命。如果玩家在战斗时退出游戏，神秘物品将会失去三条神秘生命。当神秘物品失去了所有神秘生命，该物品会消失。
 
-当附魔的时候.普通无附魔的裤子将会获随机的神秘附魔，并且具有不同的效果。I 阶的神秘之裤会获得Upon upgrading to tier I, they gain 1–2 "tokens" – total tiers – of a low-grade enchantment. When upgrading to tier II, they gain 1–2 more tokens of any enchantment (at most one of which can be RARE!), and at tier III, they gain 1–4 more tokens (at most three of which can be RARE!) – up to 8 total.
+当附魔无附魔的裤子将会获随机的神秘附魔，并且具有不同的效果。I 阶的神秘之裤会获得Upon upgrading to tier I, they gain 1–2 "tokens" – total tiers – of a low-grade enchantment. When upgrading to tier II, they gain 1–2 more tokens of any enchantment (at most one of which can be RARE!), and at tier III, they gain 1–4 more tokens (at most three of which can be RARE!) – up to 8 total.
 
 Mystic pants may not have more than 3 unique enchants or more than 8 tokens of enchantment, even through usage of the Totally Legit Gem.
 
@@ -243,7 +243,7 @@ II  如果在潜行时被击中，则你会被传送到攻击者身后。5 秒�
 III 如果在潜行时被击中，则你会被传送到攻击者身后。3 秒冷却。如果在传送时被卡到方块内，则你会被传送到攻击者那里。
 
 稀有！神圣奇迹（RARE! Divine Miracle）
-I   死亡时有 10% 几率保护物品栏。可与神力庇护叠加生效。
+I   死亡时有 10% 几率保护物品栏。可与神力庇护叠加生效。（优先于神力庇护？）
 II  死亡时有 20% 几率保护物品栏。可与神力庇护叠加生效。
 III 死亡时有 30% 几率保护物品栏。可与神力庇护叠加生效。
 
@@ -298,8 +298,8 @@ III 每次最多受到 1.5 颗♥的伤害。
 
 稀有！独处（RARE! Solitude）
 I   若在 7 格内只有 1 名或没有的玩家，减伤 40%。
-II  若在 7 格内只有 1 名或没有的玩家，减伤 50%。
-III 若在 7 格内只有 1 名或没有的玩家，减伤 60%。
+II  若在 7 格内只有 2 名或以下的玩家，减伤 50%。
+III 若在 7 格内只有 2 名或以下的玩家，减伤 60%。
 
 稀有！雪球（RARE! Snowballs）
 I   重生获得 8 个雪球，击杀加 8 个，最多可拥有 16 个。扔出的雪球会给敌人缓慢 I（3 秒）。在 5 秒内连续击中对方 5 次（对方被击中时会产生高音音符粒子效果），造成 0.5 颗♥的真实伤害， 这轮攻击将会结束。
