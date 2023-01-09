@@ -13,7 +13,7 @@ The Pit 是 Hypixel Network 上一个基于 PVP，同时可使用独特的增益
 
 下个事件："nextevent" 在 "whenevent" （"localtime"）
 
-距离上次 Pit 更新"lastpitupd"  "lastupdtime"
+距离上次天坑乱斗更新"lastpitupd"  "lastupdtime"
 
 综合
 Hypixel 天坑乱斗
