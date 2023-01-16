@@ -8,10 +8,10 @@
 
 神秘之裤可以穿戴和附魔。玩家可去附魔的无附魔裤子、拍卖、交易中获得神秘之裤。
 
-无附魔裤子是未附魔的神秘之裤。无附魔裤子有（红，橙，黄，绿，蓝）。在精通I解锁神秘学后，有较低几率在击杀别的玩家时掉率无附魔裤子。其他类型的神秘之裤获取方式，在别的页面有相应描述。
+无附魔裤子是未附魔的神秘之裤。无附魔裤子有（{ff5555|红}，{ffaa00|橙}，{ffff55|黄}，{55ff55|绿}，{5555ff|蓝}）。在[精通](Prestige) {5555ff|I} 使用[{ffff55|声望}](Renown)解锁[神秘学](Renown#Mysticism)后，有较低几率在击杀别的玩家时掉率无附魔裤子。其他类型的神秘之裤获取方式，在别的页面有相应描述。
 
-无附魔裤子和铁护腿有一样护甲值。 They can be enchanted in the Mystic Well with tier IX of Mysticism。无附魔裤子附魔到 I 级花费 1000 金币，附魔到 II 级花费 4000 金币，附魔到 III 级花费 8000 金币和一条一样颜色的神秘之裤。（fresh暗黑之裤也一样？）
 
+无附魔裤子和铁护腿有一样护甲值。 They can be enchanted in the Mystic Well with tier IX of Mysticism。无附魔裤子附魔到 I 级花费 1000 金币，附魔到 II 级花费 4000 金币，附魔到 III 级花费 8000 金币和一条一样颜色的神秘之裤。
 附魔无附魔裤子会给予它们随机的神秘生命，并且去除死亡不消失的标签（Kept on Death）。死亡时将会失去一神秘生命。如果玩家在战斗时退出游戏，神秘物品将会失去三条神秘生命。当神秘物品失去了所有神秘生命，该物品会消失。
 
 当附魔无附魔的裤子将会获随机的神秘附魔，并且具有不同的效果。I 阶的神秘之裤会获得Upon upgrading to tier I, they gain 1–2 "tokens" – total tiers – of a low-grade enchantment. When upgrading to tier II, they gain 1–2 more tokens of any enchantment (at most one of which can be RARE!), and at tier III, they gain 1–4 more tokens (at most three of which can be RARE!) – up to 8 total.
@@ -62,8 +62,8 @@ III 箭对你造成的伤害减少 60%。
 
 竭力之获（Sweaty）
 I   增加 20% 的连杀经验加成。
-II  增加 20% 的连杀经验加成，并且击杀最多加 50XP。
-III 增加 20% 的连杀经验加成。并且击杀最多加 100XP。
+II  增加 20% 的连杀经验加成，并且击杀最多加 50 XP。
+III 增加 20% 的连杀经验加成。并且击杀最多加 100 XP。
 
 经验加成（XP Boost）
 I   从击杀和助攻中获得多 10% 的经验。
@@ -85,7 +85,7 @@ I   从击杀和助攻中获得多 15% 的金币。
 II  从击杀和助攻中获得多 30% 的金币。
 III 从击杀和助攻中获得多 45% 的金币。
 
-金币加成（Gold Bump）
+金泵（Gold Bump）
 I   击杀加 4 金币，但是会减少助攻金币。
 II  击杀加 8 金币，但是会减少助攻金币。
 III 击杀加 12 金币，但是会减少助攻金币。（指的是此神秘附魔增加的金币，在助攻时候会减少。）
