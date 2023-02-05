@@ -1,8 +1,9 @@
 title: 金币
 
-author: BrookeAFK
+author: Dylan
 
-[tbox|30|Look at tbox!|banner_smaller.png|100|{f|Image boxes! How wonderful!}]
+[box|20|gold_ingot.png|50|这是一个金锭。<br>在天坑乱斗中代表金币。]
 
 ---
 
+**金币**（g）是天坑乱斗中一种重要的资源。
