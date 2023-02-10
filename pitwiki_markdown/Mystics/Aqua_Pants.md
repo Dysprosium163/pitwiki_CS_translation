@@ -1,6 +1,6 @@
 title: 天蓝色裤子
 
-author: Dylan（谢谢yuchen）
+author: Dylan
 
 [tbox|20|天蓝色裤子|aqua_pants.png|50|{b|可使用于神秘井<br>无需神秘学<br>玩家可以在钓鱼时获得天蓝色裤子！}]
 
@@ -8,19 +8,19 @@ author: Dylan（谢谢yuchen）
 
 **天蓝色裤子**是[神秘之裤](Mystic_Pants)中的种特殊裤子，当玩家在[精通](Prestige){e| VII }解锁[钓鱼俱乐部](Renown#Fishing_Club) V [声望|renown]升级后可以在钓鱼时小概率掉上一条天蓝色裤子。天蓝色裤子大部分的附魔用于帮助玩家钓鱼。
 
-天蓝色裤子的附魔机制其他裤子不同，只能被升升至 I 级，花费[ 5,000g|gold]。I 阶天蓝色裤子的神秘生命固定为 5，与带有钓鱼俱乐部神秘附魔(Club Rod)，同时会带有一个天蓝色裤子专属附魔。钓鱼俱乐部附魔让你在重生点穿上其的时候获得一根钓鱼竿。
+天蓝色裤子的附魔机制其他裤子不同，只能被升升至 I 级，花费[ 5,000 金币|gold]。I 阶天蓝色裤子的神秘生命固定为 5。其带有钓鱼俱乐部神秘附魔（Club Rod），同时会带有一个天蓝色裤子专属附魔。钓鱼俱乐部附魔让你在重生点穿上其的时候获得一根钓鱼竿。
 
 不像普通的神秘之裤，附魔天蓝色裤子只需要[神秘学](Renown#Mysticism) I。
 
 下表中是天蓝色裤子特有的附魔：
 
-|<div style="text-align: left">名稱</div>|<div style="text-align: left">敘述</div>|
+|<div style="text-align: left">附魔</div>|<div style="text-align: left">简介</div>|
 |---|---|
 |钓鱼俱乐部<br>Club Rod|出生时获得一根钓鱼竿。|
 |钓鱼王者（非官方翻译）<br>Grandmaster|鱼钩命中玩家时会造成{td|0.5[heart]}真实伤害。|
 |水之眷顾<br>Luck of the Pond|钓起物品的速度比普通快 10%。|
-|便携池塘<br>Protable Pond|出生时获得一个水桶。一共可以倒 4 次水（不会流动），<br>已放置的水不能再被收回。|
-|「强力浮漂」<br>Rodback|增强鱼钩击退玩家的效果。|
+|便携池塘<br>Portable Pond|出生时获得一个水桶。一共可以倒 4 次水（不会流动），<br>已放置的水不能再被收回。|
+|强力浮漂」<br>Rodback|增强鱼钩击退玩家的效果。|
 |海之浪子<br>Rogue|对穿着天蓝色裤子的玩家造成额外{c| +25% }伤害并减少{9| -10% }来自该玩家的伤害。|
 |一心之韧<br>Tough Crew|若周围有三名以上玩家穿着天蓝色裤子，你将少收到{9| 15% }的伤害。|
 |奖金<br>Trophy|一次可以多钓起两个金锭。|
