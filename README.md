@@ -12,7 +12,7 @@
 
 ---
 
-### Here is the [translation](pitwiki_markdown):arrow_backward::arrow_backward::arrow_backward:  
+### Here is the [translation](pitwiki_markdown) :arrow_backward::arrow_backward::arrow_backward:  
 
 ---
 

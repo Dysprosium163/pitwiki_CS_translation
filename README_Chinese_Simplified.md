@@ -19,7 +19,7 @@
 ### 如果有问题或者翻译错误？
 >请在 GitHub 上创建一个 issue。  
 > 如果你没有 GitHub 账号，或者不方便访问 GitHub？  
-> 你可以通过 Discord 私信我。或者也可以去b站私信我 [点这里](https://space.bilibili.com/693470532)。  
+> 你可以通过 Discord 私信我。或者也可以去 [b站](https://space.bilibili.com/693470532) 私信我。  
 > 这是我的 Discord :arrow_down::arrow_down::arrow_down:  
 
     Dysprosium163#2143
