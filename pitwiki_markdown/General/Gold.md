@@ -19,6 +19,7 @@ author: Dylan
 
 <!--For the Gold Requirement table, Prestige = 精通; Gold Requirement = 精通金币需求-->
 
+
 ## 琐事
 
 在 [The Pit 1.0.5](The_Pit_1.0.5)之前，精通金币需求要求很高，达到了 18,180,000 金币。现在的最高精通金币需求是 2,000,000 金币。
